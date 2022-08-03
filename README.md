@@ -4,7 +4,7 @@
 Assignment for Web Design at CQUniversity by Amanda Windsor 2022
 
 
-Mark Recieved: 83.75%
+Mark Received: 83.75%
 
 
 ![Screenshot 2022-08-03 212133](https://user-images.githubusercontent.com/88325151/182597112-41b1a1be-eb5c-40cf-bf48-26c3ee27bdfd.png)
