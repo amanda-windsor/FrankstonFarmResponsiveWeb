@@ -1,0 +1,73 @@
+/*Colours:  #35302F #BFB8B4 #735246 #F2F2F2*/
+
+.bg-opacity-100 {background-color: #35302F;
+}
+
+.offcanvas-backdrop {color: #35302F}
+
+div.wrapper {
+position: relative;
+text-align: center;
+color: white;
+}
+
+.navbar {
+position: absolute;
+	top: 5px;
+}
+
+
+p1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	color: white;
+	text-shadow: black;	
+}
+
+div.top-right { 
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+h1 {color: white;
+	font-size: 22px;
+	font-family: 'Crimson Pro', serif;
+	font-weight: 900;
+	font-style: normal;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-justify: center;
+}
+
+h2 {
+	font-family: 'Crimson Pro', serif;
+	color: white;
+	text-justify: center}
+
+h3 {font-family: 'Crimson Pro', serif;
+	font-size: 20px;
+	font-weight: 900;
+		color: white}
+	
+p {
+	font-size: 18px;
+	font-weight: 300;
+	font-style: normal;
+	font-family: 'Lato', sans-serif;
+	color: white}
+
+p3 {width: 100px;
+  	margin: auto;
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: 300;
+	font-style: normal;
+	font-family: 'Lato', sans-serif;
+	color: white}
+
+img {border-radius: 8px;
+	padding: 10px;
+}
